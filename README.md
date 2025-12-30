@@ -1,4 +1,4 @@
 # apnaCollege-demo
-Hey I'm learning GIT
+Hey I'm learning GIT + GIT-HUB
 <br>
 Author-Saniya Khan
